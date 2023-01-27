@@ -1,0 +1,22 @@
+WARMUP:
+
+1. Create a new Git/GitHub named python_fund_warmup
+2. Create a file called app.py
+3. Create a list of strings
+4. Loop through and print out each string
+5. Create a function that will accept 1 string as an argument
+  5.1. This function will print out the string plus the message 'I was given this string'
+6. Call the function for each string in your list of strings
+7. Modify the function to now check to see if the string starts with the letter 'q'
+  7.0. I wonder if there is a built in function in python that can check this
+  7.1. If so, print out a message saying 'q found' plus the string
+  7.2. If not, do nothing
+8. Create a list of dictionaries (these are the same as JS objects)
+9. For each dictionary, give the following key-value pairs:
+  9.1. username (string)
+  9.2. is_subscribed (boolean)
+  9.3. age (number)
+10. Create a function that will accept a list of dictionaries as an argument
+  10.1. The function will return a new list of dictionaries.
+  10.2. This list will only contain users with a is_subscribed of True
+11. Add, commit and push your code
